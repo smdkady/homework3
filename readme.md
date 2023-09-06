@@ -7,4 +7,5 @@
 Знаю 4 языка: русский, английский, испанский и немецкий
 
 Мое фото
-![Alt text](image.png)
+![photo_2023-09-06_16-28-53](https://github.com/smdkady/homework3/assets/135750085/975c4a16-12ac-4486-b2ac-422cd01212e9)
+
